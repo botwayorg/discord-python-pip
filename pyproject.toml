@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "{{.BotName}}"
-description = "My Awesome Discord (Python) Bot"
+description = "My Awesome (Python) Bot"
 
 [tool.poetry.dependencies]
 python = "^3.9"
