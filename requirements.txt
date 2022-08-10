@@ -1,4 +1,4 @@
-discord-py-api==1.7.847
+discord-py-api==1.7.848
 botway.py==0.0.6
 pynacl==1.5.0
 PyYAML==6.0
